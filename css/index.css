@@ -1,0 +1,44 @@
+@font-face {
+	font-family: 'Open Sans';
+	src: url(OpenSans-ExtraBold.ttf);
+}
+html,body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 23px;
+	font-weight: 100;
+}
+body{
+	background: #fff;
+}
+b{
+	font-weight: bold;
+}
+
+#header{
+	margin: 30px auto 30px auto;
+	text-align: center;
+}
+#title{
+	font-family: 'Open Sans';
+	font-size: 80px;
+}
+#video{
+	width:800px;
+	margin:0 auto;
+}
+a{
+	color:#ff4040;
+}
+a:hover{
+	color:#ff8080;
+}
+
+#desc{
+	width:700px;
+	margin:0px auto 50px auto;
+	text-align: center;
+	text-align: left;
+	font-size: 22px; 
+	line-height: 1.4em;
+}
